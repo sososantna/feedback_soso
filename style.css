@@ -11,7 +11,7 @@
     --light-grey:#969fad;
     --mediun-grey:#7c8798;
     --orange:#fc7614;
-    --white:#fff
+    --white:#fff;
     --very-dark-blue: #131518;
     --black-gradient: radical-gradient(98.96% 98.96% at 50% 0%, #232a34 0%, #181e27 100%);   
 }
@@ -25,7 +25,7 @@ body{
 }
 
 .card{
-    background-color: var(--black-gradient);
+    background: var(--black-gradient);
     max-width: 412px;
     padding: 32px;
     border-radius: 30px;
